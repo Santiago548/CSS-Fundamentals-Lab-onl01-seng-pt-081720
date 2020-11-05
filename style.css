@@ -20,7 +20,7 @@ img  {
 }
 
 a {
-  text-align: center;
+  align-items: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
