@@ -26,7 +26,7 @@ nav, figcaption {
   text-align: center;
 }
 
-div {
+div, h3, p {
   display: block;
   background-color: red;
   text-align: center;
