@@ -30,6 +30,7 @@ nav, figcaption {
 
 div {
   display: block;
+  float: left;
   background-color: red;
   text-align: center;
   margin-left: auto;
