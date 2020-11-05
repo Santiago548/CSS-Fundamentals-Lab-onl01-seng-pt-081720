@@ -3,6 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
+
 h1 {
   text-align: center;
   color: red;
@@ -19,7 +20,7 @@ img  {
   width: 50%;
 }
 
-a {
+nav {
   align-items: center;
   padding-left: 10px;
   padding-right: 10px;
